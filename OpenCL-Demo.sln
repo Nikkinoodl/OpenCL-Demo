@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenCL-Demo", "OpenCL-Demo\OpenCL-Demo.csproj", "{81C11ADF-EE35-4E80-B377-F7A68E64E6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C11ADF-EE35-4E80-B377-F7A68E64E6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C11ADF-EE35-4E80-B377-F7A68E64E6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C11ADF-EE35-4E80-B377-F7A68E64E6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C11ADF-EE35-4E80-B377-F7A68E64E6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E2D384-21C0-4C17-A352-79E1393C8AFC}
+	EndGlobalSection
+EndGlobal
