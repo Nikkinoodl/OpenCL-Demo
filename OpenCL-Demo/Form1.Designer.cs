@@ -1,4 +1,4 @@
-﻿namespace MeshGeneration_v2
+﻿namespace OpenCLDemo
 {
     partial class Form1
     {

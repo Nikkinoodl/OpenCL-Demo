@@ -1,4 +1,4 @@
-namespace MeshGeneration_v2
+namespace OpenCLDemo
 {
     internal static class Program
     {
